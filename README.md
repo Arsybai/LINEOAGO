@@ -1,2 +1,2 @@
 # LINEOAGO
-Nothing
+Install it by yourself. :)
