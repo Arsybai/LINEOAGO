@@ -1,0 +1,14 @@
+{
+  "name": "LINEOAGO",
+  "description": "LINE OA GO",
+  "repository": "https://github.com/arsybai/LINEOAGO",
+  "keywords": ["Line", "go"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/kr/heroku-buildpack-go.git"
+    },
+    {
+      "url": "heroku/go"
+    }
+  ]
+}
